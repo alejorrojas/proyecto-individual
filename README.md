@@ -47,7 +47,7 @@ Para los filtros puedes visitar la siguiente [documentacion](https://rickandmort
 - [ ] Redux
 - [ ] React Router
 
-#### Frontend
+## Frontend
 
 Se debe desarrollar una aplicación de React/Redux que contenga las siguientes pantallas/rutas.
 
