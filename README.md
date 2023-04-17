@@ -18,7 +18,7 @@
 
 El boilerplate cuenta con la carpetaa: `client`. En esta carpeta estará el código front-end respectivamente.
 
-El contenido de `client` fue creado usando: Create React App.
+El contenido de `client` fue creado usando: [Vite](https://vitejs.dev/)
 
 ## Enunciado
 
